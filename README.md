@@ -14,7 +14,7 @@ Each of these experiments helped to successively improve the generated image. Th
 
 Finally, I applied a technique called Spatial Control (Gatys et al, 2016) to further improve the generated image by selectively applying the style to certain regions of the content. The end results met my expectations, and I was able to produce a generated image that I can use to replace the manual work I undertake before putting paint on canvas (converting the image to grayscale, identifying tonal regions, making those regions into geometric shapes, choosing complementary colors for bordering tonal areas).
 
-YouTube Video: https://www.youtube.com/watch?v=FIDVFDB5_Xk(https://www.youtube.com/watch?v=FIDVFDB5_Xk)
+YouTube Video: https://www.youtube.com/watch?v=FIDVFDB5_Xk
 
 ## 1.0 Background
 One of my hobbies is painting portraits on canvas with acrylic paint. I like to use a very specific pop-art style with straight lines and contrasting bold colors. To the right, you can see a photograph of me in front of a couple of my paintings.
